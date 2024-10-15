@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Star_drawings.cpp">
+    <ClCompile Include="Polynonial_equations.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
